@@ -12,3 +12,4 @@ This is the beginning of my journey!
 ## My first branch
 I am learning how branches work.
 I can experiment with changes without my main project.
+I am now learning how to pull changes from Github. 
